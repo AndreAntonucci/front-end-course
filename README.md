@@ -1,1 +1,1 @@
-previous link: https://andreantonucci.github.io/front-end-course/
+preview link: https://andreantonucci.github.io/front-end-course/
